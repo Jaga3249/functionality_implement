@@ -1,0 +1,84 @@
+{
+    "users": [
+        {
+            "name": "John Doe",
+            "address": "US",
+            "email": "johndoe@example.com",
+            "phone": "9876543210",
+            "id": "12345",
+            "status": "Active"
+        },
+        {
+            "name": "Alice Smith",
+            "address": "CA",
+            "email": "alice.smith@example.com",
+            "phone": "8765432109",
+            "id": "54321",
+            "status": "Inactive"
+        },
+        {
+            "name": "Bob Johnson",
+            "address": "UK",
+            "email": "bob.johnson@example.com",
+            "phone": "7654321098",
+            "id": "67890",
+            "status": "Active"
+        },
+        {
+            "name": "Maria Garcia",
+            "address": "ES",
+            "email": "maria.garcia@example.com",
+            "phone": "9172345678",
+            "id": "23456",
+            "status": "Active"
+        },
+        {
+            "name": "Mohammed Ali",
+            "address": "SA",
+            "email": "mohammed.ali@example.com",
+            "phone": "1139876543",
+            "id": "78901",
+            "status": "Inactive"
+        },
+        {
+            "name": "Linda Wang",
+            "address": "CN",
+            "email": "linda.wang@example.com",
+            "phone": "1012345678",
+            "id": "34567",
+            "status": "Active"
+        },
+        {
+            "name": "Pierre Dupont",
+            "address": "FR",
+            "email": "pierre.dupont@example.com",
+            "phone": " 8723456789",
+            "id": "89012",
+            "status": "Inactive"
+        },
+        {
+            "name": "Sara Martinez",
+            "address": "MX",
+            "email": "sara.martinez@example.com",
+            "phone": "5567891234",
+            "id": "45678",
+            "status": "Active"
+        },
+        {
+            "name": "Hans Müller",
+            "address": "DE",
+            "email": "hans.mueller@example.com",
+            "phone": "3012345678",
+            "id": "12378",
+            "status": "Active"
+        },
+        {
+            "name": "Anna Kowalski",
+            "address": "PL",
+            "email": "anna.kowalski@example.com",
+            "phone": "229876543",
+            "id": "78459",
+            "status": "Inactive"
+        }
+    ]
+}
